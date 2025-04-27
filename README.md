@@ -49,3 +49,5 @@ Follow these simple steps to get KasKu up and running:
 
 Enjoy effortless financial tracking with **KasKu** 💰📈📉. Make managing your money fun and stress-free!
 
+## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/f1d6868a-57f8-4a82-bd18-d9aca24fd002)
